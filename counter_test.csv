@@ -1,0 +1,10 @@
+Group,Trial,Block,OneOption,Phase,BlockPhase,Condition,Frame_type,Target,Prompt,Audio_name,Picture,Gif1,Gif2,Target,AttentionGrabber,AG_URL,AttentionGrabber_sound
+B,1,0,Y,Familiarization,Familiarization,Mismatch,hello boy,boy,look there's the boy,intro_boy.mp3,intro_boy.gif,,,,,,
+B,2,0,Y,Familiarization,Familiarization,Mismatch,hello girl,girl,there's the girl,intro_girl.wav,intro_girl.gif,,,,,,
+B,3,0,Y,Familiarization,Familiarization,Mismatch,hello boy and girl,both,theres the boy and the girl,intro_both.wav,intro_both.gif,,,,,,
+B,4,0,Y,Familiarization,Familiarization,Mismatch,look carrying,carry,"look, there's carrying!",look_carrying.wav,carrying.gif,,,,,,
+B,6,0,Y,Familiarization,Familiarization,Mismatch,look carrying,carry,"look, there's carrying!",look_carrying.wav,carrying.gif,,,,,,
+B1,9,1,Y,Exposure,1Exposure,Mismatch,transitive,lorp,"Look, sometimes, the boy lorps the girl. Wow, the boy really likes to lorp the girl.",boy_lorp_girl.wav,wiggle_ear_short.mp4.gif,,,,,,
+B1,11,1,Y,Exposure,1Exposure,Mismatch,transitive,lorp,"Look, sometimes, the boy lorps the girl. Wow, the boy really likes to lorp the girl.",boy_lorp_girl.wav,wiggle_ear_short.mp4.gif,,,,,,
+B1,14,2,Y,Exposure,1Exposure,Mismatch,intransitive,pim,"Look, the boy and the girl like to pim together sometimes. Really they pim together a lot.",pim_intr.wav,lift_head_caus,,,,,,
+B1,16,2,Y,Exposure,1Exposure,Mismatch,intransitive,pim,"Look, the boy and the girl like to pim together sometimes. Really they pim together a lot.",pim_intr.wav,lift_head_caus,,,,,,
