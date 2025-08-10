@@ -1,0 +1,81 @@
+Group,Trial,Block,OneOption,Phase,BlockPhase,Condition,Frame_type,Target,Prompt,Audio_name,Picture,Gif1,Gif2,Target,AttentionGrabber,AG_URL,AttentionGrabber_sound
+B1,9,1,Y,Exposure,1Exposure,Mismatch,transitive,lorp,"Look, sometimes, the boy lorps the girl. Wow, the boy really likes to lorp the girl.",boy_lorp_girl.mp3,wiggle_ear_short.gif,,,,,,
+B1,10,1,N,Filler,1Filler,Mismatch,find the dog,dog,"Where is the dog, find the dog?",find_dog.mp3,,dog.png,fish.png,Gif1,attentiongrabber.gif,,chimes.mp3
+B1,11,1,Y,Exposure,1Exposure,Mismatch,transitive,lorp,"Look, sometimes, the boy lorps the girl. Wow, the boy really likes to lorp the girl.",boy_lorp_girl.mp3,wiggle_ear_short.gif,,,,,,
+B1,12,1,N,Filler,1Filler,Mismatch,find the shoe,shoe,"Where is the shoe, find the shoe?",find_shoe.mp3,,car.png,shoe.png,Gif2,elmo.gif,,ElmoYeah.mp3
+B1,13,1,N,Test,1Exposure,Mismatch,transitive,lorp,Find lorping.,find_lorping.mp3,,warrior_short.gif,disco_caus.gif,Gif1,attentiongrabber.gif,,chimes.mp3
+B1,14,2,Y,Exposure,1Exposure,Mismatch,intransitive,pim,"Look, the boy and the girl like to pim together sometimes. Really they pim together a lot.",pim_intr.mp3,lift_head_caus.gif,,,,,,
+B1,15,2,N,Filler,1Filler,Mismatch,find the car,car,"Where is the car, find the car?",find_car.mp3,,car.png,shoe.png,Gif1,elmo.gif,,ElmoYeah.mp3
+B1,16,2,Y,Exposure,1Exposure,Mismatch,intransitive,pim,"Look, the boy and the girl like to pim together sometimes. Really they pim together a lot.",pim_intr.mp3,lift_head_caus.gif,,,,,,
+B1,17,2,N,Filler,1Filler,Mismatch,find the fish,fish,"Where is the fish, find the fish?",find_fish.mp3,,dog.png,fish.png,Gif2,attentiongrabber.gif,,chimes.mp3
+B1,18,2,N,Test,1Test,Mismatch,intransitive,pim,Find tigging.,find_pimming.mp3,,stomp.gif,twist_waist_caus.gif,Gif2,elmo.gif,,ElmoYeah.mp3
+B1,19,3,Y,Exposure,1Exposure,Mismatch,transitive,mipe,"Look, sometimes, the girl also mipes the boy. Really, the girl likes to mipe the boy.",girl_mipe_boy.mp3,robot_dance.gif,,,,,,
+B1,20,3,N,Filler,1Filler,Mismatch,find the shoe,shoe,"Where is the shoe, find the shoe?",find_shoe.mp3,,car.png,shoe.png,Gif2,attentiongrabber.gif,,chimes.mp3
+B1,21,3,Y,Exposure,1Exposure,Mismatch,transitive,mipe,"Look, sometimes, the girl also mipes the boy. Really, the girl likes to mipe the boy.",girl_mipe_boy.mp3,robot_dance.gif,,,,,,
+B1,22,3,N,Filler,1Filler,Mismatch,find the dog,dog,"Where is the dog, find the dog?",find_dog.mp3,,dog.png,fish.png,Gif1,elmo.gif,,ElmoYeah.mp3
+B1,23,3,N,Test,1Test,Mismatch,transitive,mipe,Find miping.,find_miping.mp3,,spin_chair_intr.gif,lift_arm_caus.gif,Gif1,attentiongrabber.gif,,chimes.mp3
+B1,24,4,Y,Exposure,1Exposure,Mismatch,intransitive,nade,"Look, the boy and the girl nade together everyday. Wow, they really like to riv together.",nade_intr.mp3,ear_spin_caus.gif,,,,,,
+B1,25,4,N,Filler,1Filler,Mismatch,find the fish,fish,"Where is the fish, find the fish?",find_fish.mp3,,dog.png,fish.png,Gif2,elmo.gif,,ElmoYeah.mp3
+B1,26,4,Y,Exposure,1Exposure,Mismatch,intransitive,nade,"Look, the boy and the girl nade together everyday. Wow, they really like to nade together.",nade_intr.mp3,ear_spin_caus.gif,,,,,,
+B1,27,4,N,Filler,1Filler,Mismatch,find the car,car,"Where is the car, find the car?",find_car.mp3,,car.png,shoe.png,Gif1,attentiongrabber.gif,,chimes.mp3
+B1,28,4,N,Test,1Test,Mismatch,intransitive,nade,Find nading.,find_nading.mp3,,jump_to_split.gif,squat_caus.gif,Gif2,elmo.gif,,ElmoYeah.mp3
+B2,9,1,Y,Exposure,1Exposure,Mismatch,transitive,lorp,"Look, sometimes, the boy lorps the girl. Wow, the boy really likes to lorp the girl.",boy_lorp_girl.mp3,warrior_short.gif,,,,,,
+B2,10,1,N,Filler,1Filler,Mismatch,find the dog,dog,"Where is the dog, find the dog?",find_dog.mp3,,dog.png,fish.png,Gif1,attentiongrabber.gif,,chimes.mp3
+B2,11,1,Y,Exposure,1Exposure,Mismatch,transitive,lorp,"Look, sometimes, the boy lorps the girl. Wow, the boy really likes to lorp the girl.",boy_lorp_girl.mp3,warrior_short.gif,,,,,,
+B2,12,1,N,Filler,1Filler,Mismatch,find the shoe,shoe,"Where is the shoe, find the shoe?",find_shoe.mp3,,car.png,shoe.png,Gif2,elmo.gif,,ElmoYeah.mp3
+B2,13,1,N,Test,1Exposure,Mismatch,transitive,lorp,Find lorping.,find_lorping.mp3,,wiggle_ear_short.gif,disco_caus.gif,Gif1,attentiongrabber.gif,,chimes.mp3
+B2,14,2,Y,Exposure,1Exposure,Mismatch,intransitive,pim,"Look, the boy and the girl like to pim together sometimes. Really they pim together a lot.",pim_intr.mp3,twist_waist_caus.gif,,,,,,
+B2,15,2,N,Filler,1Filler,Mismatch,find the car,car,"Where is the car, find the car?",find_car.mp3,,car.png,shoe.png,Gif1,elmo.gif,,ElmoYeah.mp3
+B2,16,2,Y,Exposure,1Exposure,Mismatch,intransitive,pim,"Look, the boy and the girl like to pim together sometimes. Really they pim together a lot.",pim_intr.mp3,twist_waist_caus.gif,,,,,,
+B2,17,2,N,Filler,1Filler,Mismatch,find the fish,fish,"Where is the fish, find the fish?",find_fish.mp3,,dog.png,fish.png,Gif2,attentiongrabber.gif,,chimes.mp3
+B2,18,2,N,Test,1Test,Mismatch,intransitive,pim,Find tigging.,find_pimming.mp3,,stomp.gif,lift_head_caus,Gif2,elmo.gif,,ElmoYeah.mp3
+B2,19,3,Y,Exposure,1Exposure,Mismatch,transitive,mipe,"Look, sometimes, the girl also mipes the boy. Really, the girl likes to mipe the boy.",girl_mipe_boy.mp3,spin_chair_intr.gif,,,,,,
+B2,20,3,N,Filler,1Filler,Mismatch,find the shoe,shoe,"Where is the shoe, find the shoe?",find_shoe.mp3,,car.png,shoe.png,Gif2,attentiongrabber.gif,,chimes.mp3
+B2,21,3,Y,Exposure,1Exposure,Mismatch,transitive,mipe,"Look, sometimes, the girl also mipes the boy. Really, the girl likes to mipe the boy.",girl_mipe_boy.mp3,spin_chair_intr.gif,,,,,,
+B2,22,3,N,Filler,1Filler,Mismatch,find the dog,dog,"Where is the dog, find the dog?",find_dog.mp3,,dog.png,fish.png,Gif1,elmo.gif,,ElmoYeah.mp3
+B2,23,3,N,Test,1Test,Mismatch,transitive,mipe,Find miping.,find_miping.mp3,,robot_dance.gif,lift_arm_caus.gif,Gif1,attentiongrabber.gif,,chimes.mp3
+B2,24,4,Y,Exposure,1Exposure,Mismatch,intransitive,nade,"Look, the boy and the girl nade together everyday. Wow, they really like to riv together.",nade_intr.mp3,squat_caus.gif,,,,,,
+B2,25,4,N,Filler,1Filler,Mismatch,find the fish,fish,"Where is the fish, find the fish?",find_fish.mp3,,dog.png,fish.png,Gif2,elmo.gif,,ElmoYeah.mp3
+B2,26,4,Y,Exposure,1Exposure,Mismatch,intransitive,nade,"Look, the boy and the girl nade together everyday. Wow, they really like to nade together.",nade_intr.mp3,squat_caus.gif,,,,,,
+B2,27,4,N,Filler,1Filler,Mismatch,find the car,car,"Where is the car, find the car?",find_car.mp3,,car.png,shoe.png,Gif1,attentiongrabber.gif,,chimes.mp3
+B2,28,4,N,Test,1Test,Mismatch,intransitive,nade,Find nading.,find_nading.mp3,,jump_to_split.gif,ear_spin_caus.gif,Gif2,elmo.gif,,ElmoYeah.mp3
+B3,9,1,Y,Exposure,1Exposure,Mismatch,transitive,lorp,"Look, sometimes, the boy lorps the girl. Wow, the boy really likes to lorp the girl.",boy_lorp_girl.mp3,wiggle_ear_short.gif,,,,,,
+B3,10,1,N,Filler,1Filler,Mismatch,find the dog,dog,"Where is the dog, find the dog?",find_dog.mp3,,dog.png,fish.png,Gif1,attentiongrabber.gif,,chimes.mp3
+B3,11,1,Y,Exposure,1Exposure,Mismatch,transitive,lorp,"Look, sometimes, the boy lorps the girl. Wow, the boy really likes to lorp the girl.",boy_lorp_girl.mp3,wiggle_ear_short.gif,,,,,,
+B3,12,1,N,Filler,1Filler,Mismatch,find the shoe,shoe,"Where is the shoe, find the shoe?",find_shoe.mp3,,car.png,shoe.png,Gif2,elmo.gif,,ElmoYeah.mp3
+B3,13,1,N,Test,1Exposure,Mismatch,transitive,lorp,Find lorping.,find_lorping.mp3,,stomp.gif,lift_arm_caus.gif,Gif1,attentiongrabber.gif,,chimes.mp3
+B3,14,2,Y,Exposure,1Exposure,Mismatch,intransitive,pim,"Look, the boy and the girl like to pim together sometimes. Really they pim together a lot.",pim_intr.mp3,lift_head_caus.gif,,,,,,
+B3,15,2,N,Filler,1Filler,Mismatch,find the car,car,"Where is the car, find the car?",find_car.mp3,,car.png,shoe.png,Gif1,elmo.gif,,ElmoYeah.mp3
+B3,16,2,Y,Exposure,1Exposure,Mismatch,intransitive,pim,"Look, the boy and the girl like to pim together sometimes. Really they pim together a lot.",pim_intr.mp3,lift_head_caus.gif,,,,,,
+B3,17,2,N,Filler,1Filler,Mismatch,find the fish,fish,"Where is the fish, find the fish?",find_fish.mp3,,dog.png,fish.png,Gif2,attentiongrabber.gif,,chimes.mp3
+B3,18,2,N,Test,1Test,Mismatch,intransitive,pim,Find tigging.,find_pimming.mp3,,spin_chair_intr.gif,squat_caus.gif,Gif2,elmo.gif,,ElmoYeah.mp3
+B3,19,3,Y,Exposure,1Exposure,Mismatch,transitive,mipe,"Look, sometimes, the girl also mipes the boy. Really, the girl likes to mipe the boy.",girl_mipe_boy.mp3,robot_dance.gif,,,,,,
+B3,20,3,N,Filler,1Filler,Mismatch,find the shoe,shoe,"Where is the shoe, find the shoe?",find_shoe.mp3,,car.png,shoe.png,Gif2,attentiongrabber.gif,,chimes.mp3
+B3,21,3,Y,Exposure,1Exposure,Mismatch,transitive,mipe,"Look, sometimes, the girl also mipes the boy. Really, the girl likes to mipe the boy.",girl_mipe_boy.mp3,robot_dance.gif,,,,,,
+B3,22,3,N,Filler,1Filler,Mismatch,find the dog,dog,"Where is the dog, find the dog?",find_dog.mp3,,dog.png,fish.png,Gif1,elmo.gif,,ElmoYeah.mp3
+B3,23,3,N,Test,1Test,Mismatch,transitive,mipe,Find miping.,find_miping.mp3,,jump_to_split.gif,twist_waist_caus.gif,Gif1,attentiongrabber.gif,,chimes.mp3
+B3,24,4,Y,Exposure,1Exposure,Mismatch,intransitive,nade,"Look, the boy and the girl nade together everyday. Wow, they really like to riv together.",nade_intr.mp3,ear_spin_caus.gif,,,,,,
+B3,25,4,N,Filler,1Filler,Mismatch,find the fish,fish,"Where is the fish, find the fish?",find_fish.mp3,,dog.png,fish.png,Gif2,elmo.gif,,ElmoYeah.mp3
+B3,26,4,Y,Exposure,1Exposure,Mismatch,intransitive,nade,"Look, the boy and the girl nade together everyday. Wow, they really like to nade together.",nade_intr.mp3,ear_spin_caus.gif,,,,,,
+B3,27,4,N,Filler,1Filler,Mismatch,find the car,car,"Where is the car, find the car?",find_car.mp3,,car.png,shoe.png,Gif1,attentiongrabber.gif,,chimes.mp3
+B3,28,4,N,Test,1Test,Mismatch,intransitive,nade,Find nading.,find_nading.mp3,,warrior_short.gif,disco_caus.gif,Gif2,elmo.gif,,ElmoYeah.mp3
+B4,9,1,Y,Exposure,1Exposure,Mismatch,transitive,lorp,"Look, sometimes, the boy lorps the girl. Wow, the boy really likes to lorp the girl.",boy_lorp_girl.mp3,stomp.gif,,,,,,
+B4,10,1,N,Filler,1Filler,Mismatch,find the dog,dog,"Where is the dog, find the dog?",find_dog.mp3,,dog.png,fish.png,Gif1,attentiongrabber.gif,,chimes.mp3
+B4,11,1,Y,Exposure,1Exposure,Mismatch,transitive,lorp,"Look, sometimes, the boy lorps the girl. Wow, the boy really likes to lorp the girl.",boy_lorp_girl.mp3,stomp.gif,,,,,,
+B4,12,1,N,Filler,1Filler,Mismatch,find the shoe,shoe,"Where is the shoe, find the shoe?",find_shoe.mp3,,car.png,shoe.png,Gif2,elmo.gif,,ElmoYeah.mp3
+B4,13,1,N,Test,1Exposure,Mismatch,transitive,lorp,Find lorping.,find_lorping.mp3,,wiggle_ear_short.gif,lift_arm_caus.gif,Gif1,attentiongrabber.gif,,chimes.mp3
+B4,14,2,Y,Exposure,1Exposure,Mismatch,intransitive,pim,"Look, the boy and the girl like to pim together sometimes. Really they pim together a lot.",pim_intr.mp3,squat_caus.gif,,,,,,
+B4,15,2,N,Filler,1Filler,Mismatch,find the car,car,"Where is the car, find the car?",find_car.mp3,,car.png,shoe.png,Gif1,elmo.gif,,ElmoYeah.mp3
+B4,16,2,Y,Exposure,1Exposure,Mismatch,intransitive,pim,"Look, the boy and the girl like to pim together sometimes. Really they pim together a lot.",pim_intr.mp3,squat_caus.gif,,,,,,
+B4,17,2,N,Filler,1Filler,Mismatch,find the fish,fish,"Where is the fish, find the fish?",find_fish.mp3,,dog.png,fish.png,Gif2,attentiongrabber.gif,,chimes.mp3
+B4,18,2,N,Test,1Test,Mismatch,intransitive,pim,Find tigging.,find_pimming.mp3,,spin_chair_intr.gif,lift_head_caus,Gif2,elmo.gif,,ElmoYeah.mp3
+B4,19,3,Y,Exposure,1Exposure,Mismatch,transitive,mipe,"Look, sometimes, the girl also mipes the boy. Really, the girl likes to mipe the boy.",girl_mipe_boy.mp3,jump_to_split.gif,,,,,,
+B4,20,3,N,Filler,1Filler,Mismatch,find the shoe,shoe,"Where is the shoe, find the shoe?",find_shoe.mp3,,car.png,shoe.png,Gif2,attentiongrabber.gif,,chimes.mp3
+B4,21,3,Y,Exposure,1Exposure,Mismatch,transitive,mipe,"Look, sometimes, the girl also mipes the boy. Really, the girl likes to mipe the boy.",girl_mipe_boy.mp3,jump_to_split.gif,,,,,,
+B4,22,3,N,Filler,1Filler,Mismatch,find the dog,dog,"Where is the dog, find the dog?",find_dog.mp3,,dog.png,fish.png,Gif1,elmo.gif,,ElmoYeah.mp3
+B4,23,3,N,Test,1Test,Mismatch,transitive,mipe,Find miping.,find_miping.mp3,,robot_dance.gif,twist_waist_caus.gif,Gif1,attentiongrabber.gif,,chimes.mp3
+B4,24,4,Y,Exposure,1Exposure,Mismatch,intransitive,nade,"Look, the boy and the girl nade together everyday. Wow, they really like to riv together.",nade_intr.mp3,disco_caus.gif,,,,,,
+B4,25,4,N,Filler,1Filler,Mismatch,find the fish,fish,"Where is the fish, find the fish?",find_fish.mp3,,dog.png,fish.png,Gif2,elmo.gif,,ElmoYeah.mp3
+B4,26,4,Y,Exposure,1Exposure,Mismatch,intransitive,nade,"Look, the boy and the girl nade together everyday. Wow, they really like to nade together.",nade_intr.mp3,disco_caus.gif,,,,,,
+B4,27,4,N,Filler,1Filler,Mismatch,find the car,car,"Where is the car, find the car?",find_car.mp3,,car.png,shoe.png,Gif1,attentiongrabber.gif,,chimes.mp3
+B4,28,4,N,Test,1Test,Mismatch,intransitive,nade,Find nading.,find_nading.mp3,,warrior_short.gif,ear_spin_caus.gif,Gif2,elmo.gif,,ElmoYeah.mp3
