@@ -28,7 +28,7 @@ B2,14,2,Y,Exposure,1Exposure,Mismatch,intransitive,pim,"Look, the boy and the gi
 B2,15,2,N,Filler,1Filler,Mismatch,find the car,car,"Where is the car, find the car?",find_car.mp3,,car.png,shoe.png,Gif1,elmo.gif,,ElmoYeah.mp3
 B2,16,2,Y,Exposure,1Exposure,Mismatch,intransitive,pim,"Look, the boy and the girl like to pim together sometimes. Really they pim together a lot.",pim_intr.mp3,twist_waist_caus.gif,,,,,,
 B2,17,2,N,Filler,1Filler,Mismatch,find the fish,fish,"Where is the fish, find the fish?",find_fish.mp3,,dog.png,fish.png,Gif2,attentiongrabber.gif,,chimes.mp3
-B2,18,2,N,Test,1Test,Mismatch,intransitive,pim,Find tigging.,find_pimming.mp3,,stomp.gif,lift_head_caus,Gif2,elmo.gif,,ElmoYeah.mp3
+B2,18,2,N,Test,1Test,Mismatch,intransitive,pim,Find tigging.,find_pimming.mp3,,stomp.gif,lift_head_caus.gif,Gif2,elmo.gif,,ElmoYeah.mp3
 B2,19,3,Y,Exposure,1Exposure,Mismatch,transitive,mipe,"Look, sometimes, the girl also mipes the boy. Really, the girl likes to mipe the boy.",girl_mipe_boy.mp3,spin_chair_intr.gif,,,,,,
 B2,20,3,N,Filler,1Filler,Mismatch,find the shoe,shoe,"Where is the shoe, find the shoe?",find_shoe.mp3,,car.png,shoe.png,Gif2,attentiongrabber.gif,,chimes.mp3
 B2,21,3,Y,Exposure,1Exposure,Mismatch,transitive,mipe,"Look, sometimes, the girl also mipes the boy. Really, the girl likes to mipe the boy.",girl_mipe_boy.mp3,spin_chair_intr.gif,,,,,,
@@ -68,7 +68,7 @@ B4,14,2,Y,Exposure,1Exposure,Mismatch,intransitive,pim,"Look, the boy and the gi
 B4,15,2,N,Filler,1Filler,Mismatch,find the car,car,"Where is the car, find the car?",find_car.mp3,,car.png,shoe.png,Gif1,elmo.gif,,ElmoYeah.mp3
 B4,16,2,Y,Exposure,1Exposure,Mismatch,intransitive,pim,"Look, the boy and the girl like to pim together sometimes. Really they pim together a lot.",pim_intr.mp3,squat_caus.gif,,,,,,
 B4,17,2,N,Filler,1Filler,Mismatch,find the fish,fish,"Where is the fish, find the fish?",find_fish.mp3,,dog.png,fish.png,Gif2,attentiongrabber.gif,,chimes.mp3
-B4,18,2,N,Test,1Test,Mismatch,intransitive,pim,Find tigging.,find_pimming.mp3,,spin_chair_intr.gif,lift_head_caus,Gif2,elmo.gif,,ElmoYeah.mp3
+B4,18,2,N,Test,1Test,Mismatch,intransitive,pim,Find tigging.,find_pimming.mp3,,spin_chair_intr.gif,lift_head_caus.gif,Gif2,elmo.gif,,ElmoYeah.mp3
 B4,19,3,Y,Exposure,1Exposure,Mismatch,transitive,mipe,"Look, sometimes, the girl also mipes the boy. Really, the girl likes to mipe the boy.",girl_mipe_boy.mp3,jump_to_split.gif,,,,,,
 B4,20,3,N,Filler,1Filler,Mismatch,find the shoe,shoe,"Where is the shoe, find the shoe?",find_shoe.mp3,,car.png,shoe.png,Gif2,attentiongrabber.gif,,chimes.mp3
 B4,21,3,Y,Exposure,1Exposure,Mismatch,transitive,mipe,"Look, sometimes, the girl also mipes the boy. Really, the girl likes to mipe the boy.",girl_mipe_boy.mp3,jump_to_split.gif,,,,,,
