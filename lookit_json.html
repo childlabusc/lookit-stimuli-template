@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lookit - What's Going On</title>
+  <!-- jsPsych core -->
+  <script src="https://unpkg.com/jspsych@7.3.4"></script>
+
+  <!-- Plugins -->
+  <script src="https://unpkg.com/@jspsych/plugin-html-keyboard-response@1.1.3"></script>
+  <script src="https://unpkg.com/@jspsych/plugin-image-keyboard-response@1.1.3"></script>
+  <script src="https://unpkg.com/@jspsych/plugin-preload@1.1.3"></script>
+
+  <link href="https://unpkg.com/jspsych@7.3.4/css/jspsych.css" rel="stylesheet" />
+</head>
+<body></body>
+<script>
+  const baseAudio = "https://raw.githubusercontent.com/childlabusc/lookit-stimuli-template/master/mp3/conflict/";
+  const baseImage = "https://raw.githubusercontent.com/childlabusc/lookit-stimuli-template/master/img/conflict/";
+  const json_url = "https://raw.githubusercontent.com/childlabusc/lookit-stimuli-template/refs/heads/master/counter_test2.json";
+
+  const jsPsych = initJsPsych({
+    on_finish: function() {
+      jsPsych.data.displayData();
+    }
+  });
+
+  let timeline = [];
+
+  // Welcome trial
+  const welcome = {
+    type: jsPsychHtmlKeyboardResponse,
+    stimulus: "Welcome to the experiment! Press any key to begin."
+  };
+  timeline.push(welcome);
+
+  // Instructions trial
+  const instructions = {
+    type: jsPsychHtmlKeyboardResponse,
+    stimulus: "Instructions go here."
+  };
+  //timeline.push(instructions);
+
+  // Helper function: group array of objects by key
+  function groupBy(arr, key) {
+    return arr.reduce((acc, obj) => {
+      (acc[obj[key]] = acc[obj[key]] || []).push(obj);
+      return acc;
+    }, {});
+  }
+
+  /* define familiarization trials */
+  var hello_boy = {
+    type: jsPsychHtmlKeyboardResponse,
+    stimulus: `
+      <img src="${baseImage}intro_boy.gif" width="700">
+      <audio autoplay>
+        <source src="${baseAudio}intro_boy.mp3" type="audio/mp3">
+      </audio>
+    `,
+    choices: "NO_KEYS",
+    trial_duration: 5000
+  };
+
+  var hello_girl = {
+    type: jsPsychHtmlKeyboardResponse,
+    stimulus: `
+      <img src="${baseImage}intro_girl.gif" width="700">
+      <audio autoplay>
+        <source src="${baseAudio}intro_girl.mp3" type="audio/mp3">
+      </audio>
+    `,
+    choices: "NO_KEYS",
+    trial_duration: 5000
+  };
+
+  var hello_both = {
+    type: jsPsychHtmlKeyboardResponse,
+    stimulus: `
+      <div style="display: flex; justify-content: center; gap: 100px;">
+        <img src="${baseImage}intro_girl.gif" width="576" height="350">
+        <img src="${baseImage}intro_boy.gif" width="576" height="350">
+      </div>
+      <audio autoplay>
+        <source src="${baseAudio}intro_both.mp3" type="audio/mp3">
+      </audio>
+    `,
+    choices: "NO_KEYS",
+    trial_duration: 5000
+  };
+
+  timeline.push(hello_boy, hello_girl, hello_both);
+
+  var look_carrying = {
+    type: jsPsychHtmlKeyboardResponse,
+    stimulus: `
+      <img src="${baseImage}carrying.gif" width="750">
+      <audio autoplay>
+        <source src="${baseAudio}look_carrying.mp3" type="audio/mp3">
+      </audio>
+    `,
+    choices: "NO_KEYS",
+    trial_duration: 8000
+  };
+
+  var pig = {
+    type: jsPsychHtmlKeyboardResponse,
+    stimulus: `
+      <div style="display: flex; justify-content: center; gap: 290px;">
+        <img src="${baseImage}pig.png" width="400" height="350">
+        <img src="${baseImage}key.png" width="400" height="400">
+        <audio autoplay>
+          <source src="${baseAudio}find_pig.mp3" type="audio/mp3">
+        </audio>
+      </div>
+    `,
+    choices: "NO_KEYS",
+    trial_duration: 8000
+  };
+
+  var key = {
+    type: jsPsychHtmlKeyboardResponse,
+    stimulus: `
+      <div style="display: flex; justify-content: center; gap: 290px;">
+        <img src="${baseImage}pig.png" width="400" height="350">
+        <img src="${baseImage}key.png" width="400" height="400">
+        <audio autoplay>
+          <source src="${baseAudio}find_key.mp3" type="audio/mp3">
+        </audio>
+      </div>
+    `,
+    choices: "NO_KEYS",
+    trial_duration: 8000
+  };
+
+  var find_carrying = {
+    type: jsPsychHtmlKeyboardResponse,
+    stimulus: `
+      <div style="display: flex; justify-content: center; gap: 100px;">
+        <img src="${baseImage}clapping.gif" width="576" height="350">
+        <img src="${baseImage}carrying.gif" width="576" height="350">
+        <audio autoplay>
+          <source src="${baseAudio}find_carrying.mp3" type="audio/mp3">
+        </audio>
+      </div>
+    `,
+    choices: "NO_KEYS",
+    trial_duration: 8000
+  };
+
+  timeline.push(look_carrying, pig, look_carrying, key, find_carrying);
+
+  // Load JSON and setup trials
+  fetch(json_url)
+    .then(response => response.json())
+    .then(data => {
+
+      // Group rows by block (Group column)
+      const blocks = groupBy(data, 'Group');
+      const block_keys = Object.keys(blocks);
+
+      // Choose one random block for participant
+      const chosen_block_key = block_keys[Math.floor(Math.random() * block_keys.length)];
+      const chosen_block = blocks[chosen_block_key];
+
+      // Build trials according to Phase column
+      const trials = chosen_block.map(row => {
+
+        if (row.Phase === "Exposure") {
+          return {
+            type: jsPsychHtmlKeyboardResponse,
+            stimulus: `
+              <div>
+                <img src="${baseImage + row.Picture}" width="750"><br>
+                <audio autoplay>
+                  <source src="${baseAudio + row.Audio_name}" type="audio/mp3">
+                </audio>
+              </div>
+            `,
+            choices: "NO_KEYS",
+            trial_duration: 8000,
+            data: { phase: 'Exposure', trial_info: row }
+          };
+        } else if (row.Phase === "Filler") {
+          return {
+            type: jsPsychHtmlKeyboardResponse,
+            stimulus: `
+              <div style="display: flex; justify-content: center; gap: 290px;">
+                <img src="${baseImage + row.Gif1}"  width="576" height="350">
+                <img src="${baseImage + row.Gif2}"  width="576" height="350">
+              </div>
+              <audio autoplay>
+                <source src="${baseAudio + row.Audio_name}" type="audio/mp3">
+              </audio>
+            `,
+            choices: "NO_KEYS",
+            trial_duration: 8000,
+            data: { phase: 'Filler', trial_info: row }
+          };
+        } else if (row.Phase === "Test") {
+          return {
+            type: jsPsychHtmlKeyboardResponse,
+            stimulus: `
+              <div style="display: flex; justify-content: center; gap: 100px;">
+                <img src="${baseImage + row.Gif1}" width="576" height="350">
+                <img src="${baseImage + row.Gif2}" width="576" height="350">
+              </div>
+              <audio autoplay>
+                <source src="${baseAudio + row.Audio_name}" type="audio/mp3">
+              </audio>
+            `,
+            choices: ['l', 'r'],
+            data: { phase: 'Test', trial_info: row },
+            trial_duration: 8000
+          };
+        } else {
+          console.warn("Unknown Phase for trial", row);
+          return {
+            type: jsPsychHtmlKeyboardResponse,
+            stimulus: "Unknown trial type",
+            choices: "NO_KEYS",
+            trial_duration: 1000,
+            data: { phase: 'Unknown', trial_info: row }
+          };
+        }
+      });
+
+      // Append trials to timeline
+      timeline.push(...trials);
+
+      // Start the experiment
+      jsPsych.run(timeline);
+    });
+</script>
+</html>
