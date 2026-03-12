@@ -7,10 +7,10 @@
     "trial_type": "open_trial",
     "word_num": "F1",
     "word": "blicket",
-    "referent 1": "2003.jpg",
-    "referent 2": "2006.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2003.jpg",
+    "referent2": "2006.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Confirm",
@@ -20,10 +20,10 @@
     "trial_type": "open_trial",
     "word_num": "R1",
     "word": "kuabid",
-    "referent 1": "2004.jpg",
-    "referent 2": "2053.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2004.jpg",
+    "referent2": "2053.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Confirm",
@@ -33,10 +33,10 @@
     "trial_type": "open_trial",
     "word_num": "R1",
     "word": "kuabid",
-    "referent 1": "2010.jpg",
-    "referent 2": "2004.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2010.jpg",
+    "referent2": "2004.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Confirm",
@@ -46,10 +46,10 @@
     "trial_type": "open_trial",
     "word_num": "R1",
     "word": "kuabid",
-    "referent 1": "2004.jpg",
-    "referent 2": "2051.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2004.jpg",
+    "referent2": "2051.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Confirm",
@@ -59,10 +59,10 @@
     "trial_type": "open_trial",
     "word_num": "N1",
     "word": "dax",
-    "referent 1": "2008.jpg",
-    "referent 2": "2037.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2008.jpg",
+    "referent2": "2037.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Confirm",
@@ -72,10 +72,10 @@
     "trial_type": "open_trial",
     "word_num": "R2",
     "word": "fendle",
-    "referent 1": "2010.jpg",
-    "referent 2": "2055.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2010.jpg",
+    "referent2": "2055.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Confirm",
@@ -85,10 +85,10 @@
     "trial_type": "open_trial",
     "word_num": "R2",
     "word": "fendle",
-    "referent 1": "2055.jpg",
-    "referent 2": "2053.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2055.jpg",
+    "referent2": "2053.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Confirm",
@@ -98,10 +98,10 @@
     "trial_type": "open_trial",
     "word_num": "R2",
     "word": "fendle",
-    "referent 1": "2050.jpg",
-    "referent 2": "2055.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2050.jpg",
+    "referent2": "2055.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Confirm",
@@ -111,10 +111,10 @@
     "trial_type": "open_trial",
     "word_num": "N2",
     "word": "mipen",
-    "referent 1": "2062.jpg",
-    "referent 2": "2042.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2062.jpg",
+    "referent2": "2042.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Confirm",
@@ -124,10 +124,10 @@
     "trial_type": "open_trial",
     "word_num": "R3",
     "word": "smick",
-    "referent 1": "2036.jpg",
-    "referent 2": "2051.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2036.jpg",
+    "referent2": "2051.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Confirm",
@@ -137,10 +137,10 @@
     "trial_type": "open_trial",
     "word_num": "R3",
     "word": "smick",
-    "referent 1": "2050.jpg",
-    "referent 2": "2036.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2050.jpg",
+    "referent2": "2036.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Confirm",
@@ -150,10 +150,10 @@
     "trial_type": "open_trial",
     "word_num": "R3",
     "word": "smick",
-    "referent 1": "2036.jpg",
-    "referent 2": "2010.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2036.jpg",
+    "referent2": "2010.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Confirm",
@@ -163,10 +163,10 @@
     "trial_type": "open_trial",
     "word_num": "N3",
     "word": "yate",
-    "referent 1": "2047.jpg",
-    "referent 2": "2043.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2047.jpg",
+    "referent2": "2043.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Confirm",
@@ -176,10 +176,10 @@
     "trial_type": "open_trial",
     "word_num": "R1",
     "word": "kuabid",
-    "referent 1": "2050.jpg",
-    "referent 2": "2004.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2050.jpg",
+    "referent2": "2004.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Confirm",
@@ -189,10 +189,10 @@
     "trial_type": "open_trial",
     "word_num": "F1",
     "word": "blicket",
-    "referent 1": "2006.jpg",
-    "referent 2": "2003.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2006.jpg",
+    "referent2": "2003.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Confirm",
@@ -202,10 +202,10 @@
     "trial_type": "open_trial",
     "word_num": "R2",
     "word": "fendle",
-    "referent 1": "2055.jpg",
-    "referent 2": "2051.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2055.jpg",
+    "referent2": "2051.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Confirm",
@@ -215,10 +215,10 @@
     "trial_type": "open_trial",
     "word_num": "F2",
     "word": "plyder",
-    "referent 1": "2017.jpg",
-    "referent 2": "2038.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2017.jpg",
+    "referent2": "2038.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Confirm",
@@ -228,10 +228,10 @@
     "trial_type": "open_trial",
     "word_num": "R3",
     "word": "smick",
-    "referent 1": "2053.jpg",
-    "referent 2": "2036.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2053.jpg",
+    "referent2": "2036.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Confirm",
@@ -241,10 +241,10 @@
     "trial_type": "open_trial",
     "word_num": "F2",
     "word": "plyder",
-    "referent 1": "2038.jpg",
-    "referent 2": "2017.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2038.jpg",
+    "referent2": "2017.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Confirm",
@@ -254,10 +254,10 @@
     "trial_type": "test_trial",
     "word_num": "R1",
     "word": "",
-    "referent 1": "2010.jpg",
-    "referent 2": "2004.jpg",
-    "referent 3": "2051.jpg",
-    "referent 4": "2053.jpg"
+    "referent1": "2010.jpg",
+    "referent2": "2004.jpg",
+    "referent3": "2051.jpg",
+    "referent4": "2053.jpg"
   },
   {
     "Condition": "Confirm",
@@ -267,10 +267,10 @@
     "trial_type": "test_trial",
     "word_num": "N1",
     "word": "",
-    "referent 1": "2037.jpg",
-    "referent 2": "2008.jpg",
-    "referent 3": "2062.jpg",
-    "referent 4": "2047.jpg"
+    "referent1": "2037.jpg",
+    "referent2": "2008.jpg",
+    "referent3": "2062.jpg",
+    "referent4": "2047.jpg"
   },
   {
     "Condition": "Confirm",
@@ -280,10 +280,10 @@
     "trial_type": "test_trial",
     "word_num": "F1",
     "word": "",
-    "referent 1": "2017.jpg",
-    "referent 2": "2042.jpg",
-    "referent 3": "2003.jpg",
-    "referent 4": "2006.jpg"
+    "referent1": "2017.jpg",
+    "referent2": "2042.jpg",
+    "referent3": "2003.jpg",
+    "referent4": "2006.jpg"
   },
   {
     "Condition": "Confirm",
@@ -293,10 +293,10 @@
     "trial_type": "test_trial",
     "word_num": "R2",
     "word": "",
-    "referent 1": "2055.jpg",
-    "referent 2": "2053.jpg",
-    "referent 3": "2010.jpg",
-    "referent 4": "2050.jpg"
+    "referent1": "2055.jpg",
+    "referent2": "2053.jpg",
+    "referent3": "2010.jpg",
+    "referent4": "2050.jpg"
   },
   {
     "Condition": "Confirm",
@@ -306,10 +306,10 @@
     "trial_type": "test_trial",
     "word_num": "N2",
     "word": "",
-    "referent 1": "2042.jpg",
-    "referent 2": "2043.jpg",
-    "referent 3": "2006.jpg",
-    "referent 4": "2062.jpg"
+    "referent1": "2042.jpg",
+    "referent2": "2043.jpg",
+    "referent3": "2006.jpg",
+    "referent4": "2062.jpg"
   },
   {
     "Condition": "Confirm",
@@ -319,10 +319,10 @@
     "trial_type": "test_trial",
     "word_num": "F2",
     "word": "",
-    "referent 1": "2003.jpg",
-    "referent 2": "2047.jpg",
-    "referent 3": "2038.jpg",
-    "referent 4": "2017.jpg"
+    "referent1": "2003.jpg",
+    "referent2": "2047.jpg",
+    "referent3": "2038.jpg",
+    "referent4": "2017.jpg"
   },
   {
     "Condition": "Confirm",
@@ -332,10 +332,10 @@
     "trial_type": "test_trial",
     "word_num": "R3",
     "word": "",
-    "referent 1": "2050.jpg",
-    "referent 2": "2051.jpg",
-    "referent 3": "2036.jpg",
-    "referent 4": "2010.jpg"
+    "referent1": "2050.jpg",
+    "referent2": "2051.jpg",
+    "referent3": "2036.jpg",
+    "referent4": "2010.jpg"
   },
   {
     "Condition": "Confirm",
@@ -345,10 +345,10 @@
     "trial_type": "test_trial",
     "word_num": "N3",
     "word": "",
-    "referent 1": "2043.jpg",
-    "referent 2": "2037.jpg",
-    "referent 3": "2008.jpg",
-    "referent 4": "2047.jpg"
+    "referent1": "2043.jpg",
+    "referent2": "2037.jpg",
+    "referent3": "2008.jpg",
+    "referent4": "2047.jpg"
   },
   {
     "Condition": "Retrieval",
@@ -358,10 +358,10 @@
     "trial_type": "open_trial",
     "word_num": "F1",
     "word": "blicket",
-    "referent 1": "2003.jpg",
-    "referent 2": "2006.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2003.jpg",
+    "referent2": "2006.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Retrieval",
@@ -371,10 +371,10 @@
     "trial_type": "open_trial",
     "word_num": "R1",
     "word": "kuabid",
-    "referent 1": "2004.jpg",
-    "referent 2": "2053.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2004.jpg",
+    "referent2": "2053.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Retrieval",
@@ -384,10 +384,10 @@
     "trial_type": "close_trial",
     "word_num": "R1",
     "word": "kuabid",
-    "referent 1": "2010.jpg",
-    "referent 2": "2004.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2010.jpg",
+    "referent2": "2004.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Retrieval",
@@ -397,10 +397,10 @@
     "trial_type": "close_trial",
     "word_num": "R1",
     "word": "kuabid",
-    "referent 1": "2004.jpg",
-    "referent 2": "2051.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2004.jpg",
+    "referent2": "2051.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Retrieval",
@@ -410,10 +410,10 @@
     "trial_type": "open_trial",
     "word_num": "N1",
     "word": "dax",
-    "referent 1": "2008.jpg",
-    "referent 2": "2037.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2008.jpg",
+    "referent2": "2037.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Retrieval",
@@ -423,10 +423,10 @@
     "trial_type": "open_trial",
     "word_num": "R2",
     "word": "fendle",
-    "referent 1": "2010.jpg",
-    "referent 2": "2055.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2010.jpg",
+    "referent2": "2055.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Retrieval",
@@ -436,10 +436,10 @@
     "trial_type": "close_trial",
     "word_num": "R2",
     "word": "fendle",
-    "referent 1": "2055.jpg",
-    "referent 2": "2053.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2055.jpg",
+    "referent2": "2053.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Retrieval",
@@ -449,10 +449,10 @@
     "trial_type": "close_trial",
     "word_num": "R2",
     "word": "fendle",
-    "referent 1": "2050.jpg",
-    "referent 2": "2055.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2050.jpg",
+    "referent2": "2055.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Retrieval",
@@ -462,10 +462,10 @@
     "trial_type": "open_trial",
     "word_num": "N2",
     "word": "mipen",
-    "referent 1": "2062.jpg",
-    "referent 2": "2042.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2062.jpg",
+    "referent2": "2042.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Retrieval",
@@ -475,10 +475,10 @@
     "trial_type": "open_trial",
     "word_num": "R3",
     "word": "smick",
-    "referent 1": "2036.jpg",
-    "referent 2": "2051.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2036.jpg",
+    "referent2": "2051.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Retrieval",
@@ -488,10 +488,10 @@
     "trial_type": "close_trial",
     "word_num": "R3",
     "word": "smick",
-    "referent 1": "2050.jpg",
-    "referent 2": "2036.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2050.jpg",
+    "referent2": "2036.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Retrieval",
@@ -501,10 +501,10 @@
     "trial_type": "close_trial",
     "word_num": "R3",
     "word": "smick",
-    "referent 1": "2036.jpg",
-    "referent 2": "2010.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2036.jpg",
+    "referent2": "2010.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Retrieval",
@@ -514,10 +514,10 @@
     "trial_type": "open_trial",
     "word_num": "N3",
     "word": "yate",
-    "referent 1": "2047.jpg",
-    "referent 2": "2043.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2047.jpg",
+    "referent2": "2043.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Retrieval",
@@ -527,10 +527,10 @@
     "trial_type": "close_trial",
     "word_num": "R1",
     "word": "kuabid",
-    "referent 1": "2050.jpg",
-    "referent 2": "2004.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2050.jpg",
+    "referent2": "2004.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Retrieval",
@@ -540,10 +540,10 @@
     "trial_type": "open_trial",
     "word_num": "F1",
     "word": "blicket",
-    "referent 1": "2006.jpg",
-    "referent 2": "2003.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2006.jpg",
+    "referent2": "2003.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Retrieval",
@@ -553,10 +553,10 @@
     "trial_type": "close_trial",
     "word_num": "R2",
     "word": "fendle",
-    "referent 1": "2055.jpg",
-    "referent 2": "2051.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2055.jpg",
+    "referent2": "2051.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Retrieval",
@@ -566,10 +566,10 @@
     "trial_type": "open_trial",
     "word_num": "F2",
     "word": "plyder",
-    "referent 1": "2017.jpg",
-    "referent 2": "2038.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2017.jpg",
+    "referent2": "2038.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Retrieval",
@@ -579,10 +579,10 @@
     "trial_type": "close_trial",
     "word_num": "R3",
     "word": "smick",
-    "referent 1": "2053.jpg",
-    "referent 2": "2036.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2053.jpg",
+    "referent2": "2036.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Retrieval",
@@ -592,10 +592,10 @@
     "trial_type": "open_trial",
     "word_num": "F2",
     "word": "plyder",
-    "referent 1": "2038.jpg",
-    "referent 2": "2017.jpg",
-    "referent 3": "",
-    "referent 4": ""
+    "referent1": "2038.jpg",
+    "referent2": "2017.jpg",
+    "referent3": "",
+    "referent4": ""
   },
   {
     "Condition": "Retrieval",
@@ -605,10 +605,10 @@
     "trial_type": "test_trial",
     "word_num": "R1",
     "word": "",
-    "referent 1": "2010.jpg",
-    "referent 2": "2004.jpg",
-    "referent 3": "2051.jpg",
-    "referent 4": "2053.jpg"
+    "referent1": "2010.jpg",
+    "referent2": "2004.jpg",
+    "referent3": "2051.jpg",
+    "referent4": "2053.jpg"
   },
   {
     "Condition": "Retrieval",
@@ -618,10 +618,10 @@
     "trial_type": "test_trial",
     "word_num": "N1",
     "word": "",
-    "referent 1": "2037.jpg",
-    "referent 2": "2008.jpg",
-    "referent 3": "2062.jpg",
-    "referent 4": "2047.jpg"
+    "referent1": "2037.jpg",
+    "referent2": "2008.jpg",
+    "referent3": "2062.jpg",
+    "referent4": "2047.jpg"
   },
   {
     "Condition": "Retrieval",
@@ -631,10 +631,10 @@
     "trial_type": "test_trial",
     "word_num": "F1",
     "word": "",
-    "referent 1": "2017.jpg",
-    "referent 2": "2042.jpg",
-    "referent 3": "2003.jpg",
-    "referent 4": "2006.jpg"
+    "referent1": "2017.jpg",
+    "referent2": "2042.jpg",
+    "referent3": "2003.jpg",
+    "referent4": "2006.jpg"
   },
   {
     "Condition": "Retrieval",
@@ -644,10 +644,10 @@
     "trial_type": "test_trial",
     "word_num": "R2",
     "word": "",
-    "referent 1": "2055.jpg",
-    "referent 2": "2053.jpg",
-    "referent 3": "2010.jpg",
-    "referent 4": "2050.jpg"
+    "referent1": "2055.jpg",
+    "referent2": "2053.jpg",
+    "referent3": "2010.jpg",
+    "referent4": "2050.jpg"
   },
   {
     "Condition": "Retrieval",
@@ -657,10 +657,10 @@
     "trial_type": "test_trial",
     "word_num": "N2",
     "word": "",
-    "referent 1": "2042.jpg",
-    "referent 2": "2043.jpg",
-    "referent 3": "2006.jpg",
-    "referent 4": "2062.jpg"
+    "referent1": "2042.jpg",
+    "referent2": "2043.jpg",
+    "referent3": "2006.jpg",
+    "referent4": "2062.jpg"
   },
   {
     "Condition": "Retrieval",
@@ -670,10 +670,10 @@
     "trial_type": "test_trial",
     "word_num": "F2",
     "word": "",
-    "referent 1": "2003.jpg",
-    "referent 2": "2047.jpg",
-    "referent 3": "2038.jpg",
-    "referent 4": "2017.jpg"
+    "referent1": "2003.jpg",
+    "referent2": "2047.jpg",
+    "referent3": "2038.jpg",
+    "referent4": "2017.jpg"
   },
   {
     "Condition": "Retrieval",
@@ -683,10 +683,10 @@
     "trial_type": "test_trial",
     "word_num": "R3",
     "word": "",
-    "referent 1": "2050.jpg",
-    "referent 2": "2051.jpg",
-    "referent 3": "2036.jpg",
-    "referent 4": "2010.jpg"
+    "referent1": "2050.jpg",
+    "referent2": "2051.jpg",
+    "referent3": "2036.jpg",
+    "referent4": "2010.jpg"
   },
   {
     "Condition": "Retrieval",
@@ -696,9 +696,9 @@
     "trial_type": "test_trial",
     "word_num": "N3",
     "word": "",
-    "referent 1": "2043.jpg",
-    "referent 2": "2037.jpg",
-    "referent 3": "2008.jpg",
-    "referent 4": "2047.jpg"
+    "referent1": "2043.jpg",
+    "referent2": "2037.jpg",
+    "referent3": "2008.jpg",
+    "referent4": "2047.jpg"
   }
 ]
