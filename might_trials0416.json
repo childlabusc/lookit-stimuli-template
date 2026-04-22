@@ -574,7 +574,7 @@
   },
   {
     "Condition": "Confirm",
-    "trial": 0,
+    "trial": "out",
     "phase": "",
     "word_type": "",
     "trial_type": "other",
@@ -1167,7 +1167,7 @@
   },
   {
     "Condition": "Retrieval",
-    "trial": 00,
+    "trial": "out",
     "phase": "",
     "word_type": "",
     "trial_type": "other",
