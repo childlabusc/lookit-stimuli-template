@@ -1,0 +1,290 @@
+[
+  {
+    "condition": 1,
+    "trial_type": "first",
+    "trial_num": 1,
+    "stim_left": "snack_D_web.mp4",
+    "stim_right": "snack_FB_web.mp4",
+    "test_sentence": "snack_D.m4a"
+  },
+  {
+    "condition": 1,
+    "trial_type": "second",
+    "trial_num": 2,
+    "stim_left": "snack_D_web.mp4",
+    "stim_right": "snack_FB_web.mp4",
+    "test_sentence": "snack_D.m4a"
+  },
+  {
+    "condition": 1,
+    "trial_type": "point",
+    "trial_num": 3,
+    "stim_left": "",
+    "stim_right": "",
+    "test_sentence": ""
+  },
+  {
+    "condition": 1,
+    "trial_type": "first",
+    "trial_num": 4,
+    "stim_left": "jacket_FB_web.mp4",
+    "stim_right": "jacket_D_web.mp4",
+    "test_sentence": "jacket_B.m4a"
+  },
+  {
+    "condition": 1,
+    "trial_type": "second",
+    "trial_num": 5,
+    "stim_left": "jacket_FB_web.mp4",
+    "stim_right": "jacket_D_web.mp4",
+    "test_sentence": "jacket_B.m4a"
+  },
+  {
+    "condition": 1,
+    "trial_type": "point",
+    "trial_num": 6,
+    "stim_left": "",
+    "stim_right": "",
+    "test_sentence": ""
+  },
+  {
+    "condition": 1,
+    "trial_type": "first",
+    "trial_num": 7,
+    "stim_left": "chocolate_D_web.mp4",
+    "stim_right": "chocolate_FB_web.mp4",
+    "test_sentence": "chcolate_D.m4a"
+  },
+  {
+    "condition": 1,
+    "trial_type": "second",
+    "trial_num": 8,
+    "stim_left": "chocolate_D_web.mp4",
+    "stim_right": "chocolate_FB_web.mp4",
+    "test_sentence": "chcolate_D.m4a"
+  },
+  {
+    "condition": 1,
+    "trial_type": "point",
+    "trial_num": 9,
+    "stim_left": "",
+    "stim_right": "",
+    "test_sentence": ""
+  },
+  {
+    "condition": 1,
+    "trial_type": "first",
+    "trial_num": 10,
+    "stim_left": "chair_FB_web.mp4",
+    "stim_right": "chair_D_web.mp4",
+    "test_sentence": "chair_D.m4a"
+  },
+  {
+    "condition": 1,
+    "trial_type": "second",
+    "trial_num": 11,
+    "stim_left": "chair_FB_web.mp4",
+    "stim_right": "chair_D_web.mp4",
+    "test_sentence": "chair_D.m4a"
+  },
+  {
+    "condition": 1,
+    "trial_type": "point",
+    "trial_num": 12,
+    "stim_left": "",
+    "stim_right": "",
+    "test_sentence": ""
+  },
+  {
+    "condition": 1,
+    "trial_type": "first",
+    "trial_num": 13,
+    "stim_left": "crayons_D_web.mp4",
+    "stim_right": "crayons_FB_web.mp4",
+    "test_sentence": "crayon_B.m4a"
+  },
+  {
+    "condition": 1,
+    "trial_type": "second",
+    "trial_num": 14,
+    "stim_left": "crayons_D_web.mp4",
+    "stim_right": "crayons_FB_web.mp4",
+    "test_sentence": "crayon_B.m4a"
+  },
+  {
+    "condition": 1,
+    "trial_type": "point",
+    "trial_num": 15,
+    "stim_left": "",
+    "stim_right": "",
+    "test_sentence": ""
+  },
+  {
+    "condition": 1,
+    "trial_type": "first",
+    "trial_num": 16,
+    "stim_left": "cookies_FB_web.mp4",
+    "stim_right": "cookie_D_web.mp4",
+    "test_sentence": "cookie_B.m4a"
+  },
+  {
+    "condition": 1,
+    "trial_type": "second",
+    "trial_num": 17,
+    "stim_left": "cookies_FB_web.mp4",
+    "stim_right": "cookie_D_web.mp4",
+    "test_sentence": "cookie_B.m4a"
+  },
+  {
+    "condition": 1,
+    "trial_type": "point",
+    "trial_num": 18,
+    "stim_left": "",
+    "stim_right": "",
+    "test_sentence": ""
+  },
+  {
+    "condition": 2,
+    "trial_type": "first",
+    "trial_num": 1,
+    "stim_left": "snack_D_web.mp4",
+    "stim_right": "snack_FB_web.mp4",
+    "test_sentence": "snack_B.m4a"
+  },
+  {
+    "condition": 2,
+    "trial_type": "second",
+    "trial_num": 2,
+    "stim_left": "snack_D_web.mp4",
+    "stim_right": "snack_FB_web.mp4",
+    "test_sentence": "snack_B.m4a"
+  },
+  {
+    "condition": 2,
+    "trial_type": "point",
+    "trial_num": 3,
+    "stim_left": "",
+    "stim_right": "",
+    "test_sentence": ""
+  },
+  {
+    "condition": 2,
+    "trial_type": "first",
+    "trial_num": 4,
+    "stim_left": "jacket_FB_web.mp4",
+    "stim_right": "jacket_D_web.mp4",
+    "test_sentence": "jacket_D.m4a"
+  },
+  {
+    "condition": 2,
+    "trial_type": "second",
+    "trial_num": 5,
+    "stim_left": "jacket_FB_web.mp4",
+    "stim_right": "jacket_D_web.mp4",
+    "test_sentence": "jacket_D.m4a"
+  },
+  {
+    "condition": 2,
+    "trial_type": "point",
+    "trial_num": 6,
+    "stim_left": "",
+    "stim_right": "",
+    "test_sentence": ""
+  },
+  {
+    "condition": 2,
+    "trial_type": "first",
+    "trial_num": 7,
+    "stim_left": "chocolate_D_web.mp4",
+    "stim_right": "chocolate_FB_web.mp4",
+    "test_sentence": "chcolate_B.m4a"
+  },
+  {
+    "condition": 2,
+    "trial_type": "second",
+    "trial_num": 8,
+    "stim_left": "chocolate_D_web.mp4",
+    "stim_right": "chocolate_FB_web.mp4",
+    "test_sentence": "chcolate_B.m4a"
+  },
+  {
+    "condition": 2,
+    "trial_type": "point",
+    "trial_num": 9,
+    "stim_left": "chocolate_D.png",
+    "stim_right": "chocolate_B.png",
+    "test_sentence": ""
+  },
+  {
+    "condition": 2,
+    "trial_type": "first",
+    "trial_num": 10,
+    "stim_left": "chair_FB_web.mp4",
+    "stim_right": "chair_D_web.mp4",
+    "test_sentence": "chair_B.m4a"
+  },
+  {
+    "condition": 2,
+    "trial_type": "second",
+    "trial_num": 11,
+    "stim_left": "chair_FB_web.mp4",
+    "stim_right": "chair_D_web.mp4",
+    "test_sentence": "chair_B.m4a"
+  },
+  {
+    "condition": 2,
+    "trial_type": "point",
+    "trial_num": 12,
+    "stim_left": "",
+    "stim_right": "",
+    "test_sentence": ""
+  },
+  {
+    "condition": 2,
+    "trial_type": "first",
+    "trial_num": 13,
+    "stim_left": "crayons_D_web.mp4",
+    "stim_right": "crayons_FB_web.mp4",
+    "test_sentence": "crayon_D.m4a"
+  },
+  {
+    "condition": 2,
+    "trial_type": "second",
+    "trial_num": 14,
+    "stim_left": "crayons_D_web.mp4",
+    "stim_right": "crayons_FB_web.mp4",
+    "test_sentence": "crayon_D.m4a"
+  },
+  {
+    "condition": 2,
+    "trial_type": "point",
+    "trial_num": 15,
+    "stim_left": "",
+    "stim_right": "",
+    "test_sentence": ""
+  },
+  {
+    "condition": 2,
+    "trial_type": "first",
+    "trial_num": 16,
+    "stim_left": "cookies_FB_web.mp4",
+    "stim_right": "cookie_D_web.mp4",
+    "test_sentence": "cookie_D.m4a"
+  },
+  {
+    "condition": 2,
+    "trial_type": "second",
+    "trial_num": 17,
+    "stim_left": "cookies_FB_web.mp4",
+    "stim_right": "cookie_D_web.mp4",
+    "test_sentence": "cookie_D.m4a"
+  },
+  {
+    "condition": 2,
+    "trial_type": "point",
+    "trial_num": 18,
+    "stim_left": "",
+    "stim_right": "",
+    "test_sentence": ""
+  }
+]
