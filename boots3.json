@@ -123,7 +123,7 @@
     "condition": 1,
     "trial_type": "first",
     "trial_num": 16,
-    "stim_left": "cookies_FB_web.mp4",
+    "stim_left": "cookie_FB_web.mp4",
     "stim_right": "cookie_D_web.mp4",
     "test_sentence": "cookie_B.m4a"
   },
@@ -131,7 +131,7 @@
     "condition": 1,
     "trial_type": "second",
     "trial_num": 17,
-    "stim_left": "cookies_FB_web.mp4",
+    "stim_left": "cookie_FB_web.mp4",
     "stim_right": "cookie_D_web.mp4",
     "test_sentence": "cookie_B.m4a"
   },
