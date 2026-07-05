@@ -4,7 +4,7 @@
     "trial_type": "first",
     "trial_num": 1,
     "stim_left": "snack_D_web.mp4",
-    "stim_right": "snack_FB_web.mp4",
+    "stim_right": "snack_FB_web2.mp4",
     "test_sentence": "snack_D.m4a"
   },
   {
@@ -12,7 +12,7 @@
     "trial_type": "second",
     "trial_num": 2,
     "stim_left": "snack_D_web.mp4",
-    "stim_right": "snack_FB_web.mp4",
+    "stim_right": "snack_FB_web2.mp4",
     "test_sentence": "snack_D.m4a"
   },
   {
@@ -100,7 +100,7 @@
     "trial_type": "first",
     "trial_num": 13,
     "stim_left": "crayons_D_web.mp4",
-    "stim_right": "crayons_FB_web.mp4",
+    "stim_right": "crayons_FB_web2.mp4",
     "test_sentence": "crayon_B.m4a"
   },
   {
@@ -108,7 +108,7 @@
     "trial_type": "second",
     "trial_num": 14,
     "stim_left": "crayons_D_web.mp4",
-    "stim_right": "crayons_FB_web.mp4",
+    "stim_right": "crayons_FB_web2.mp4",
     "test_sentence": "crayon_B.m4a"
   },
   {
@@ -148,7 +148,7 @@
     "trial_type": "first",
     "trial_num": 1,
     "stim_left": "snack_D_web.mp4",
-    "stim_right": "snack_FB_web.mp4",
+    "stim_right": "snack_FB_web2.mp4",
     "test_sentence": "snack_B.m4a"
   },
   {
@@ -156,7 +156,7 @@
     "trial_type": "second",
     "trial_num": 2,
     "stim_left": "snack_D_web.mp4",
-    "stim_right": "snack_FB_web.mp4",
+    "stim_right": "snack_FB_web2.mp4",
     "test_sentence": "snack_B.m4a"
   },
   {
@@ -244,7 +244,7 @@
     "trial_type": "first",
     "trial_num": 13,
     "stim_left": "crayons_D_web.mp4",
-    "stim_right": "crayons_FB_web.mp4",
+    "stim_right": "crayons_FB_web2.mp4",
     "test_sentence": "crayon_D.m4a"
   },
   {
@@ -252,7 +252,7 @@
     "trial_type": "second",
     "trial_num": 14,
     "stim_left": "crayons_D_web.mp4",
-    "stim_right": "crayons_FB_web.mp4",
+    "stim_right": "crayons_FB_web2.mp4",
     "test_sentence": "crayon_D.m4a"
   },
   {
