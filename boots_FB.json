@@ -3,30 +3,6 @@
     "condition": 1,
     "trial_type": "first",
     "trial_num": 1,
-    "stim_left": "practice_draw.mp4",
-    "stim_right": "practice_toy.mp4",
-    "test_sentence": "practice_draw.m4a"
-  },
-  {
-    "condition": 1,
-    "trial_type": "second",
-    "trial_num": 2,
-    "stim_left": "practice_draw.mp4",
-    "stim_right": "practice_toy.mp4",
-    "test_sentence": "practice_draw.m4a"
-  },
-  {
-    "condition": 1,
-    "trial_type": "point",
-    "trial_num": 3,
-    "stim_left": "practice_draw.png",
-    "stim_right": "practice_toy.png",
-    "test_sentence": ""
-  },
-  {
-    "condition": 1,
-    "trial_type": "first",
-    "trial_num": 1,
     "stim_left": "cereal_D.mp4",
     "stim_right": "cereal_FB.mp4",
     "test_sentence": "cereal_D.m4a"
@@ -164,31 +140,7 @@
     "trial_type": "point",
     "trial_num": 18,
     "stim_left": "cookie_D.png",
-    "stim_right": "cookie_FB.png",
-    "test_sentence": ""
-  },
-  {
-    "condition": 2,
-    "trial_type": "first",
-    "trial_num": 1,
-    "stim_left": "practice_draw.mp4",
-    "stim_right": "practice_toy.mp4",
-    "test_sentence": "practice_draw.m4a"
-  },
-  {
-    "condition": 2,
-    "trial_type": "second",
-    "trial_num": 2,
-    "stim_left": "practice_draw.mp4",
-    "stim_right": "practice_toy.mp4",
-    "test_sentence": "practice_draw.m4a"
-  },
-  {
-    "condition": 2,
-    "trial_type": "point",
-    "trial_num": 3,
-    "stim_left": "practice_draw.png",
-    "stim_right": "practice_toy.png",
+    "stim_right": "cookie_B.png",
     "test_sentence": ""
   },
   {
@@ -332,7 +284,7 @@
     "trial_type": "point",
     "trial_num": 18,
     "stim_left": "cookie_D.png",
-    "stim_right": "cookie_FB.png",
+    "stim_right": "cookie_B.png",
     "test_sentence": ""
   }
 ]
