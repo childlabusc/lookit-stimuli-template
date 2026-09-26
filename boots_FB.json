@@ -164,7 +164,7 @@
     "trial_type": "point",
     "trial_num": 18,
     "stim_left": "cookie_D.png",
-    "stim_right": "cookie_B.png",
+    "stim_right": "cookie_FB.png",
     "test_sentence": ""
   },
   {
@@ -332,7 +332,7 @@
     "trial_type": "point",
     "trial_num": 18,
     "stim_left": "cookie_D.png",
-    "stim_right": "cookie_B.png",
+    "stim_right": "cookie_FB.png",
     "test_sentence": ""
   }
 ]
