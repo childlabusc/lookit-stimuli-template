@@ -832,7 +832,7 @@
     "prompt": ""
   },
   {
-    "order": "Primacy",
+    "order": "Recency",
     "trial": 0,
     "trial_type": "other",
     "phase": "other",
